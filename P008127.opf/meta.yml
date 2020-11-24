@@ -3,5 +3,17 @@ initial_creation_type: ocr
 source_metadata:
   id: bdr:W1PD159423
   title: འབྲུག་པ་བཀའ་བརྒྱུད་ཀྱི་ལོ་རྒྱུས།
-  volume: ''
+  volume:
+    f4c81ed26e414b1b83549aa83039cd06:
+      image_group_id: I2PD19608
+      title: Volume 1 of 'brug pa bka' brgyud kyi lo rgyus/
+      volume_number: 1
+      total_pages: 338
   author: ''
+ebook_metadata:
+  title: འབྲུག་པ་བཀའ་བརྒྱུད་ཀྱི་ལོ་རྒྱུས།
+  author: ''
+  sku: P008127
+  cover: cover.jpg
+  layers:
+  - pagination
